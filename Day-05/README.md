@@ -15,3 +15,6 @@ Explored how to use the `range()` function with `for` loops to generate sequence
 ## Day 05 Project: Password Generator 🔐
 
 For Day 5, I created a [**Password Generator**](Password-Generator-Project.py). This script generates a random password based on user-specified criteria such as length and character types.
+
+![image](https://github.com/user-attachments/assets/5bf7fc28-4629-4a40-9d10-bdb28afb101f)
+
