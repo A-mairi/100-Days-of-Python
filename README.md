@@ -4,7 +4,6 @@ Welcome to my **100 Days of Python** journey! This repository is dedicated to do
 
 If you would like an overview about the course, go [here](overview.md).
 
-
 ## About the Course 🎓
 
 The **100 Days of Python** course by Angela Yu is a comprehensive, project-based Python bootcamp designed to take beginners to a professional level. The course covers a wide range of topics, including:
