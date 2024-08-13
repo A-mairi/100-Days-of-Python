@@ -1,6 +1,8 @@
 # Day 3: Control Flow and Logical Operators 🗺️
 
-Welcome to Day 3 of my **100 Days of Python** journey! Today, I explored control flow and logical operators. Here’s what I practiced:
+Welcome to Day 3 of my **100 Days of Python** journey! Today, I explored control flow and logical operators. 
+
+Here’s what I practiced:
 
 ## Concepts Practiced
 
