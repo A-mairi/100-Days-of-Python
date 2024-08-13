@@ -1,3 +1,4 @@
+# Love Calculator Project
 print("Welcome to the Love Calculator")
 print('The calculator checks for the number of times the letters in the word TRUE and LOVE occur in both names')
 
