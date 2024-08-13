@@ -24,3 +24,7 @@ Manipulated numbers and used f-strings for string formatting and interpolation.
 ## Day 02 Project: Tip Calculator 💸
 
 For Day 2, I created a [**Tip Calculator**](Tip-Calculator-Project.py). This Python script calculates the amount of tip to be given based on user input for the bill amount and the desired tip percentage.
+
+Here is a Preview:
+
+![image](https://github.com/user-attachments/assets/8b653a83-029d-4e67-80f1-7ea3516e3a61)
