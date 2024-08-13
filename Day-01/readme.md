@@ -1,6 +1,7 @@
 # Day 1: Working with Variables in Python to Manage Data 🐍
 
 Welcome to Day 1 of my **100 Days of Python** journey! Today, I focused on the fundamentals of Python programming, specifically on managing data using variables. 
+
 Here’s what I covered:
 
 ## Concepts Practiced
