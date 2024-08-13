@@ -27,3 +27,7 @@ Discussed best practices for naming variables, including naming conventions and 
 ## Day 01 Project: Band Name Generator 🎸
 
 For Day 1, I worked on a project to create a [**Band Name Generator**](Band-Name-Generator-Project.py). This project applies the concepts learned today to generate creative band names based on user input.
+
+Here is a Preview of the final result:
+
+![image](https://github.com/user-attachments/assets/f978f242-347e-4aa3-8164-399e63ab69f6)
