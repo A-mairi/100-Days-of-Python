@@ -1,5 +1,4 @@
 # Tip Calculator
-
 # Create a greeting
 print('Welcome to the Tip Calculator!')
 print('In only 3 easy steps I will get the calculations done for you!')
