@@ -1,7 +1,8 @@
 # 100 Days of Python 🐍
 
-Welcome to my **100 Days of Python** journey! This repository is dedicated to documenting my progress as I work through the **100 Days of Python** course by Angela Yu on Udemy. 
-If you would like an overview about the course, go [here](overview.md)
+Welcome to my **100 Days of Python** journey! This repository is dedicated to documenting my progress as I work through the **100 Days of Python** course by Angela Yu on Udemy.
+
+If you would like an overview about the course, go [here](overview.md).
 
 
 ## About the Course 🎓
