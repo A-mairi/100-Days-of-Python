@@ -2,7 +2,7 @@
 </h1>
 
 
-This is an overview of every project for each day of the course.
+This is an overview of what I learned each day.
 
 ## 🔰 Beginner 
 -  Day 1:  Working with Variables in Python to Manage Data
