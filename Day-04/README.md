@@ -1,6 +1,8 @@
 # Day 4: Randomisation and Python Lists 🎲
 
-Welcome to Day 4 of my **100 Days of Python** journey! Today, I focused on randomisation and working with Python lists. Here’s what I explored:
+Welcome to Day 4 of my **100 Days of Python** journey! Today, I focused on randomisation and working with Python lists.
+
+Here’s what I explored:
 
 ## Concepts Practiced
 
