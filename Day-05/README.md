@@ -1,6 +1,8 @@
 # Day 5: Python Loops 🔄
 
-Welcome to Day 5 of my **100 Days of Python** journey! Today, I delved into Python loops and their applications. Here’s what I practiced:
+Welcome to Day 5 of my **100 Days of Python** journey! Today, I delved into Python loops and their applications. 
+
+Here’s what I practiced:
 
 ## Concepts Practiced
 
