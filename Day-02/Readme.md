@@ -1,6 +1,8 @@
 # Day 2: Understanding Data Types and How to Manipulate Strings 🧩
 
-Welcome to Day 2 of my **100 Days of Python** journey! Today, I delved into Python data types and string manipulation. Here’s what I covered:
+Welcome to Day 2 of my **100 Days of Python** journey! Today, I delved into Python data types and string manipulation. 
+
+Here’s what I covered:
 
 ## Concepts Practiced
 
