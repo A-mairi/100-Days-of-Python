@@ -20,9 +20,19 @@ Handled index errors and worked with nested lists for more complex data structur
 ### 1. [Coin Flip Project](Coin-Flip-Project.py) 
 Created a simple simulation of a coin flip, where the result is randomly determined to be either heads or tails.
 
+Here is a Preview:
+
+![image](https://github.com/user-attachments/assets/6da00049-a982-4a52-ae6b-ba737f7e0e48)
+
+
 ### 2. [Banker's Roulette Project](Banker-Roulette-Project.py) 🎰
 Developed a basic roulette game to simulate a random number generation and betting system.
 
+
 ### 3. [Rock Paper Scissors Game](Rock-Paper-Scissors-project.py) ✊🖐️✌️
 Built a classic Rock, Paper, Scissors game where users can play against the computer.
+
+Here is a Preview:
+
+![image](https://github.com/user-attachments/assets/f1d82535-6fc6-4ba8-9b6b-9626796b746b)
 
