@@ -26,8 +26,8 @@ score = int(str(total_true) + str(total_love1))
 print('The Love Calculator is calculating your score ...')
 
 if score < 10 or score > 90:
-    print(f'Your score is {score}, you go together like coke and mentos.')
+    print(f'Your score is: {score}, you go together like coke and mentos.')
 elif 40 <= score <= 50:
-    print(f'Your score is {score}, you are alright together.')
+    print(f'Your score is: {score}, you are alright together.')
 else:
-    print(f'Your score is {score}.')
+    print(f'Your score is: {score}.')
