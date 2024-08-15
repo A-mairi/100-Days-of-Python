@@ -17,7 +17,7 @@ Explored the use of `while` loops to execute a block of code repeatedly as long 
 
 ## Day 06 Project: Reeborg's World Maze 🌐
 
-For Day 6, I tackled the **Reeborg's World maze**. This project involved guiding Reeborg, a virtual robot, through a maze using Python functions and loops.
+For Day 6, I tackled the [**Reeborg's World maze**](Reeborg-Maze.py). This project involved guiding Reeborg, a virtual robot, through a maze using Python functions and loops.
 
 Here is a Preview:
 
