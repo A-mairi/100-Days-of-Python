@@ -9,6 +9,9 @@ Here’s what I practiced:
 ### 1. How to Break a Complex Problem Down into a Flow Chart 🧩
 Learned how to deconstruct a complex problem like the Hangman game into manageable steps using flow charts.
 
+![image](https://github.com/user-attachments/assets/40617590-065c-44fd-8891-9fa071365c79)
+
+
 ### 2. How to Check the User's Answer ✅
 Implemented logic to check user inputs against the correct answer, determining if they guessed correctly.
 
@@ -20,7 +23,7 @@ Added ASCII art to make the game visually engaging and improved the overall user
 
 ## Day 07 Project: Hangman Game 🕹️
 
-For Day 7, I created a fully functional **Hangman game**. The game challenges players to guess a word by inputting letters one at a time, with visual feedback provided through ASCII art.
+For Day 7, I created a fully functional [**Hangman game**](Hangman_project.py). The game challenges players to guess a word by inputting letters one at a time, with visual feedback provided through ASCII art.
 
 Here is a Preview:
 
