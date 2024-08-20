@@ -14,7 +14,7 @@ Explored how to nest lists within dictionaries and dictionaries within lists to 
 
 ## Day 09 Project: Blind Auction 💰
 
-For Day 9, I created a **Blind Auction** program. This project allows multiple users to place secret bids, and at the end, it reveals the highest bidder without disclosing other bids.
+For Day 9, I created a [**Blind Auction**](Blind_Auction_Project.py) program. This project allows multiple users to place secret bids, and at the end, it reveals the highest bidder without disclosing other bids.
 
 Here is a Preview:
 
