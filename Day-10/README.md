@@ -26,7 +26,7 @@ Explored advanced control flow techniques, including while loops with flags and 
 
 ## Day 10 Project: Calculator 🧮
 
-For Day 10, I created a **Calculator** program. This project allows users to perform basic arithmetic operations, using functions to return results and handle multiple calculations in a single session.
+For Day 10, I created a [**Calculator**](Calculator_Project.py) program. This project allows users to perform basic arithmetic operations, using functions to return results and handle multiple calculations in a single session.
 
 Here is a Preview:
 
