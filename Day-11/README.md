@@ -11,7 +11,7 @@ Learned how to refactor code to improve its structure and readability, and pract
 
 ## Day 11 Project: Blackjack 🃏
 
-For Day 11, I created a **Blackjack** game. This project simulates a card game where players try to get as close to 21 as possible without going over, while competing against the dealer.
+For Day 11, I created a [**Blackjack**](Black_jack_project.py) game. This project simulates a card game where players try to get as close to 21 as possible without going over, while competing against the dealer.
 
 Here is a Preview:
 
