@@ -14,7 +14,7 @@ Practiced defining and using constants in Python, and explored the concept of gl
 
 ## Day 12 Project: The Number Guessing Game 🎲
 
-For Day 12, I created **The Number Guessing Game**. This project challenges players to guess a randomly generated number within a certain range, with the game providing hints based on their guesses.
+For Day 12, I created [**The Number Guessing Game**](Number_Guessing_Project.py). This project challenges players to guess a randomly generated number within a certain range, with the game providing hints based on their guesses.
 
 Here is a Preview:
 
