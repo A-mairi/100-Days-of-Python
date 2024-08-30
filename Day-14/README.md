@@ -17,7 +17,7 @@ Applied conditional statements to control the flow of the game based on user inp
 
 ## Day 14 Project: Higher Lower Game 🎮
 
-For Day 14, I created the **Higher Lower Game**. This game challenges players to compare two items and guess which one has a higher value based on the provided data.
+For Day 14, I created the [**Higher Lower Game**](Higher_Or_Lower_Project.py). This game challenges players to compare two items and guess which one has a higher value based on the provided data.
 
 Here is a Preview:
 
