@@ -17,7 +17,7 @@ Practiced adding methods (functions inside a class) to perform actions on the ob
 
 ## Day 17 Project: Quiz Project 📝
 
-For Day 17, I created a **Quiz Project** that allows users to answer a series of questions and keeps track of their score. The project applies OOP concepts by using classes to model questions and the quiz itself, making the code modular, reusable, and easier to maintain.
+For Day 17, I created a [**Quiz Project**](Quiz_Project.py) that allows users to answer a series of questions and keeps track of their score. The project applies OOP concepts by using classes to model questions and the quiz itself, making the code modular, reusable, and easier to maintain.
 
 
 Here is a Preview:
