@@ -17,7 +17,7 @@ Explored Python tuples and used them to represent color values in the form of RG
 
 ## Day 18 Project: The Hirst Painting Project 🎨
 
-For Day 18, I created **The Hirst Painting Project**. This project uses Turtle Graphics to recreate a piece of art inspired by the famous artist Damien Hirst. The program generates random colored dots in a grid pattern, mimicking a pointillism painting style.
+For Day 18, I created [**The Hirst Painting Project**](Hirst_Painting_Project.py). This project uses Turtle Graphics to recreate a piece of art inspired by the famous artist Damien Hirst. The program generates random colored dots in a grid pattern, mimicking a pointillism painting style.
 
 Here is a Preview:
 
