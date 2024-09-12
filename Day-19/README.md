@@ -18,7 +18,7 @@ Used Turtle Graphics to understand the Cartesian coordinate system, allowing pre
 ## Day 19 Projects
 
 ### 1. Etch-a-Sketch 🎨
-Created an **Etch-a-Sketch** program where users can control the Turtle to draw on the screen using keyboard inputs, mimicking the classic toy.
+Created an [**Etch-a-Sketch**](Etch-A-Sketch_Project.py) program where users can control the Turtle to draw on the screen using keyboard inputs, mimicking the classic toy.
 
 Here is a Preview:
 
@@ -26,7 +26,7 @@ Here is a Preview:
 
 
 ### 2. Turtle Racing Game 🏁
-Developed a **Turtle Racing Game**, simulating a race between turtles with random movements. Users can bet on which turtle will win the race, adding an interactive element.
+Developed a [**Turtle Racing Game**](Turtle_Race_Project.py), simulating a race between turtles with random movements. Users can bet on which turtle will win the race, adding an interactive element.
 
 Here is a Preview:
 
