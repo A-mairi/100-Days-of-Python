@@ -20,7 +20,7 @@ Added keyboard controls to move the snake in different directions using arrow ke
 
 ## Day 20 Project: Snake Game Part 1 🐍
 
-For Day 20, I built the first part of the **Snake Game**. In this part, the snake is animated and can be controlled with the keyboard, laying the foundation for a fully functioning game in the upcoming days.
+For Day 20, I built the first part of the [**Snake Game**](main.py). In this part, the snake is animated and can be controlled with the keyboard, laying the foundation for a fully functioning game in the upcoming days.
 
 Here is a Preview:
 
