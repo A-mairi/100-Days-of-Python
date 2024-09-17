@@ -14,7 +14,7 @@ Practiced **list slicing** to efficiently access and manipulate portions of list
 
 ## Day 21 Project: Snake Game Part 2 🐍
 
-For Day 21, I enhanced the **Snake Game** by applying inheritance and slicing techniques to improve the structure and functionality of the snake’s movement and interactions. The game now features a more efficient codebase and is ready for further development.
+For Day 21, I enhanced the [**Snake Game**](main.py) by applying inheritance and slicing techniques to improve the structure and functionality of the snake’s movement and interactions. The game now features a more efficient codebase and is ready for further development.
 
 Here is a Preview:
 
