@@ -29,7 +29,7 @@ Implemented a scorekeeping system and increased the ball’s speed to make the g
 
 ## Day 22 Project: Pong Game 🕹️
 
-For Day 22, I recreated the classic **Pong Game** with full functionality, including paddles, a moving ball, collision detection, scorekeeping, and increasing ball speed for added difficulty.
+For Day 22, I recreated the classic [**Pong Game**](main.py) with full functionality, including paddles, a moving ball, collision detection, scorekeeping, and increasing ball speed for added difficulty.
 
 Here is a Preview:
 
