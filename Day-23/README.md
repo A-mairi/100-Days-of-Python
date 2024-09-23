@@ -23,7 +23,7 @@ Kept track of the player's score and increased the speed of the cars with each s
 
 ## Day 23 Project: Turtle Crossing 🐢🚗
 
-For Day 23, I created the **Turtle Crossing** game, where the player must help the turtle cross a busy road while avoiding collisions with cars. The game features scorekeeping and increases in difficulty as the player progresses.
+For Day 23, I created the [**Turtle Crossing**](main.py) game, where the player must help the turtle cross a busy road while avoiding collisions with cars. The game features scorekeeping and increases in difficulty as the player progresses.
 
 Here is a Preview:
 
