@@ -13,7 +13,7 @@ Learned how to open, read, and write to files efficiently using Python’s `with
 Explored how to navigate and work with both **relative** and **absolute file paths**, essential for managing files in different directories and locations.
 
 ### 3. Adding a High Score to the Snake Game 🐍🏆
-Enhanced the **Snake Game** by adding a feature that saves the player’s high score to a file, allowing the high score to persist even after the game is closed and restarted.
+Enhanced the [**Snake Game**](Updated%20Snake%20Game/snake_game_part2/main.py) by adding a feature that saves the player’s high score to a file, allowing the high score to persist even after the game is closed and restarted.
 
 ## Day 24 Project: Mail Merge ✉️
 
