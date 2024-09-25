@@ -17,5 +17,5 @@ Enhanced the **Snake Game** by adding a feature that saves the player’s high s
 
 ## Day 24 Project: Mail Merge ✉️
 
-For Day 24, I built a **Mail Merge** project, which takes a list of names and customizes a message for each individual. This project demonstrates file handling by reading from files, manipulating their contents, and generating new personalized messages.
+For Day 24, I built a [**Mail Merge**](Mail%20Merge%20Project%20Start/main.py) project, which takes a list of names and customizes a message for each individual. This project demonstrates file handling by reading from files, manipulating their contents, and generating new personalized messages.
 
