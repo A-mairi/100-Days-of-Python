@@ -20,7 +20,7 @@ Used Pandas functions to perform basic data analysis, including summarizing, fil
 
 ## Day 25 Project: US States Guessing Game 🗺️
 
-For Day 25, I built a **US States Guessing Game**, where the player tries to guess the names of all 50 US states. The game uses a **CSV file** containing state data and employs **Pandas** for handling and analyzing the guesses.
+For Day 25, I built a [**US States Guessing Game**](USA_states_game/main.py), where the player tries to guess the names of all 50 US states. The game uses a **CSV file** containing state data and employs **Pandas** for handling and analyzing the guesses.
 
 Here is a Preview:
 
