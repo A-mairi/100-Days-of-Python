@@ -17,7 +17,7 @@ Practiced looping through rows in a **Pandas DataFrame** to manipulate or extrac
 
 ## Day 26 Project: NATO Alphabet Project 🔤
 
-For Day 26, I created a **NATO Alphabet Project**, where users input a word, and the program returns the corresponding NATO phonetic alphabet for each letter. The project utilizes **List Comprehension** and a **Pandas DataFrame** to map letters to their phonetic codewords.
+For Day 26, I created a [**NATO Alphabet Project**](main.py), where users input a word, and the program returns the corresponding NATO phonetic alphabet for each letter. The project utilizes **List Comprehension** and a **Pandas DataFrame** to map letters to their phonetic codewords.
 
 Here is a Preview:
 
